@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dog.CE0 API App</string>
+    <string name="dog_breeds">Dog Breeds</string>
+    <string name="breeds_type">%1$s/breeds</string>
+    <string name="random_type">%1$s/random</string>
+    <string name="generic_two_part_route">%1$s/%2$s</string>
+    <string name="images_suffix">%1$s Breed Images</string>
+</resources>
